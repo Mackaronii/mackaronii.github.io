@@ -12,9 +12,9 @@ export default [
     link: "https://github.com/Mackaronii/let-me-in"
   },
   {
-    title: "Mobile Racer",
-    description: "The beloved TypeRacer, but for your phone. This project is just an idea.",
+    title: "PokéType",
+    description: "Test your typing speed and accuracy while learning about Pokémon facts you've never even heard about!",
     image: process.env.PUBLIC_URL + "/assets/project_icons/mobile-racer.jpg",
-    link: "https://images.assetsdelivery.com/compings_v2/bestvectorstock/bestvectorstock1808/bestvectorstock180808952.jpg"
+    link: "https://github.com/Mackaronii/poke-type"
   }
 ];
