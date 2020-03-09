@@ -1,0 +1,27 @@
+footer {
+    background-color: #4F4F4F;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+}
+
+footer a {
+    color: #FFF;
+    transition: 0.3s;
+}
+
+.home-btn > span {
+    margin-bottom: 50px;
+}
+
+.github-btn > span, .linkedin-btn > span {
+    margin: 20px;
+}
+
+.home-btn:hover, .github-btn:hover {
+    color: #B4B4B4;
+}
+
+.linkedin-btn:hover {
+    color: #00A3DB;
+}

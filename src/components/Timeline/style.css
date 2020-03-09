@@ -1,0 +1,33 @@
+#work {
+    background-color: #D8D8D8;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.vertical-timeline-element-icon img {
+    display: block;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    margin-left: -12px;
+    margin-top: -12px;
+}
+
+.vertical-timeline-element-date {
+    color: #000;
+}
+
+.vertical-timeline-element ul {
+    margin-top: 30px;
+}
+
+.vertical-timeline-element li {
+    margin-bottom: 20px;
+}
+
+.vertical-timeline-element .btn {
+    display: block;
+    margin-top: 30px;
+}
