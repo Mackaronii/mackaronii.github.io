@@ -1,9 +1,0 @@
-#projects {
-    background-color: #FFF;
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
-
-#projects div[class^='col-'] {
-    margin-bottom: 30px;
-}
