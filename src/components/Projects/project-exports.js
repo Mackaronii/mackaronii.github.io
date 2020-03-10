@@ -15,6 +15,6 @@ export default [
     title: "PokéType",
     description: "Test your typing speed and accuracy while learning about Pokémon facts you've never even heard about!",
     image: process.env.PUBLIC_URL + "/assets/project_icons/mobile-racer.jpg",
-    link: "https://github.com/Mackaronii/poke-type"
+    link: "https://github.com/Mackaronii/poketype"
   }
 ];
