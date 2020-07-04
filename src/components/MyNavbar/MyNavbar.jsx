@@ -12,7 +12,6 @@ function MyNavbar() {
         <Nav className="ml-auto">
           <Nav.Link href="#home">Home</Nav.Link>
           <Nav.Link href="#about">About</Nav.Link>
-          <Nav.Link href="#work">Work</Nav.Link>
           <Nav.Link href="#projects">Projects</Nav.Link>
           <Nav.Link href="#links">Links</Nav.Link>
         </Nav>

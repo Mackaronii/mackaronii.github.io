@@ -1,13 +1,12 @@
-import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import MyNavbar from './components/MyNavbar/MyNavbar';
-import Jumbo from './components/Jumbo/Jumbo';
-import About from './components/About/About';
-import Timeline from './components/Timeline/Timeline';
-import Projects from './components/Projects/Projects';
-import Footer from './components/Footer/Footer';
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import MyNavbar from "./components/MyNavbar/MyNavbar";
+import Jumbo from "./components/Jumbo/Jumbo";
+import About from "./components/About/About";
+import Projects from "./components/Projects/Projects";
+import Footer from "./components/Footer/Footer";
 
-const WOW = require('wowjs');
+const WOW = require("wowjs");
 
 class App extends React.Component {
   constructor() {
@@ -19,12 +18,11 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <MyNavbar/>
-        <Jumbo/>
-        <About/>
-        <Timeline/>
-        <Projects/>
-        <Footer/>
+        <MyNavbar />
+        <Jumbo />
+        <About />
+        <Projects />
+        <Footer />
       </div>
     );
   }
